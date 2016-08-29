@@ -1,5 +1,12 @@
 # Chess Etudes
 
+Install deps and run server:
+```
+npm i
+npm run server
+```
+Then go to [http://localhost:3000/]()
+
 Tools and techs:
 
 * `react` for UI, `redux` for store management
